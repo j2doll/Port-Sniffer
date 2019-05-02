@@ -2,7 +2,7 @@
 #
 # PortSniffer https://github.com/sirgal/Port-Sniffer
 # forked https://github.com/j2doll/Port-Sniffer
-# Qt 5.12.1
+# using Qt5
 #
 #-------------------------------------------------
 
